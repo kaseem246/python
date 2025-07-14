@@ -1,0 +1,21 @@
+python :
+Introduction to python: Dynamic memory advantages : By python
+Translator => it is software it convert the high level language to low level language => high to low => interpreter
+operators => 
+Data Type=> Primitive := Single Value data type ex a=10, it is immutable ,single length ==> int,float,boolean,none,tuple, string
+
+           Non primitive : = it can store multi level value type  ,ex: N =[10,20,30] mutable => list,dictionary, set
+Variable :
+int : = number without decemial value 
+Ex: 
+string=> string is immutable '',"" "",""" """ single ('',""),document("' "',""" """)
+
+List==>
+[],Mutable,it will slicing
+Tuple==>immutable,ordered
+
+
+list is a mutable data type, it support the slicing it is faster than tuple
+
+tuple is a immutable data type,it support the slicing ,tuple is faster than list
+set : it is note point 
